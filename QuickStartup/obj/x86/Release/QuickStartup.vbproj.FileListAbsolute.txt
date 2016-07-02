@@ -1,0 +1,9 @@
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\bin\Release\QuickStartup.exe
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\bin\Release\QuickStartup.pdb
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\bin\Release\QuickStartup.xml
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Release\QuickStartup.startupForm.resources
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Release\QuickStartup.Resources.resources
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Release\QuickStartup.vbproj.GenerateResource.Cache
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Release\QuickStartup.exe
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Release\QuickStartup.xml
+C:\Users\kumatora\Documents\Visual Studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Release\QuickStartup.pdb

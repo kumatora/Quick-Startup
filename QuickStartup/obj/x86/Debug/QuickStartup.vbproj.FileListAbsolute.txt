@@ -1,0 +1,18 @@
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\bin\Debug\QuickStartup.exe
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\bin\Debug\QuickStartup.pdb
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\bin\Debug\QuickStartup.xml
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\obj\x86\Debug\QuickStartup.startupForm.resources
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\obj\x86\Debug\QuickStartup.Resources.resources
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\obj\x86\Debug\QuickStartup.vbproj.GenerateResource.Cache
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\obj\x86\Debug\QuickStartup.exe
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\obj\x86\Debug\QuickStartup.xml
+C:\Users\kumatora\AppData\Local\Temporary Projects\QuickStartup\obj\x86\Debug\QuickStartup.pdb
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Debug\QuickStartup.exe
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Debug\QuickStartup.xml
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Debug\QuickStartup.pdb
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\bin\Debug\QuickStartup.exe
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\bin\Debug\QuickStartup.pdb
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\bin\Debug\QuickStartup.xml
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Debug\QuickStartup.startupForm.resources
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Debug\QuickStartup.Resources.resources
+C:\Users\kumatora\documents\visual studio 2010\Projects\QuickStartup\QuickStartup\obj\x86\Debug\QuickStartup.vbproj.GenerateResource.Cache
